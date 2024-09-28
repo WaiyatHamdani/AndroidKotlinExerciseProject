@@ -1,13 +1,13 @@
-# AndroidCal
-Learning Android Studio With Kotlin by building a simple Calculator App
+# AndroidKotlinExercise
+Learning Android Studio With Kotlin by building an App 
 
 ## Table of Contents
-- [Android App](#android-app)
+- [Calculator App](#calculator-app)
 - [Run Android Studio](#run-android-studio)
 
 
 
-## Android App
+## Calculator App
 ![calculator](img/1.gif)
 
 
